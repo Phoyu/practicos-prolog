@@ -100,7 +100,7 @@ Prueba tus predicados directamente:
 ```
 O ejecuta las pruebas:
 
-``prolog
+```prolog
 ?- [tests].
 ?- run_tests.
 ```
